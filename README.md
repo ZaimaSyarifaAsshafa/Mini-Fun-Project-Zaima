@@ -84,6 +84,13 @@ You can deploy this app using Streamlit Community Cloud
 
 ---
 
+## 🚀 Try It Out
+
+🎉 Langsung coba aplikasinya di sini:  
+👉 [mini-fun-project-zaima.streamlit.app](https://mini-fun-project-zaima.streamlit.app/)
+
+---
+
 ## ✨ Credits
 Made with ☕ and ❤️ by zaimaasshafa
 
