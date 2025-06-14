@@ -16,7 +16,8 @@ A fun and interactive quiz built using [Streamlit](https://streamlit.io) to help
 
 ## 📸 Preview
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnpyNWh5c2VkMGNpMTNqZW10ejI1azl2emM1Z2F2Z3dmNDl0eTdrZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SvckSy7fFviqrq8ClF/giphy.gif" width="600"/>
+![image](https://github.com/user-attachments/assets/1f0b5913-7a0b-4254-b5ea-dd6220329ab1)
+![image](https://github.com/user-attachments/assets/b07752d1-02c2-4f83-83f6-053bfb2d6355)
 
 ---
 
